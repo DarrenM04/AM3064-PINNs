@@ -1,0 +1,2 @@
+# AM3064-PINNs
+Code for AM3064 PINNa
